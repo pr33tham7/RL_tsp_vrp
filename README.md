@@ -20,13 +20,13 @@ Run the Google Colab notebook ```optim_rl_colab.ipynb```
 ### TSP Sample Tours:
 
 <p align="left">
-  <img src="./docs/Contour.png" width="500"/>
+  <img src="./docs/Contour.png" width="400"/>
 </p>
 
 ### TSP Learning Curve:
 
 <p align="left">
-  <img src="./docs/Learning curve.png" width="500"/>
+  <img src="./docs/Learning curve.png" width="400"/>
 </p>
 
 
