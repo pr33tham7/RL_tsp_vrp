@@ -15,23 +15,17 @@ Implementation of:
 
 Run the Goolge Colab notebook ```optim_rl_colab.ipynb```
 
-## Differences from paper:
-
-* Uses a GRU instead of LSTM for the decoder network
-* Critic takes the raw static and dynamic input states and predicts a reward
-* Use demand scaling (MAX_DEMAND / MAX_VEHICLE_CAPACITY), and give the depot for the VRP a negative value proportionate to the missing capacity (Unsure if used or not)
-
 ## Results
 
 ### TSP Sample Tours:
 
-<p align="center">
+<p align="left">
   <img src="./docs/Contour.png" width="300"/>
 </p>
 
 ### TSP Learning Curve:
 
-<p align="center">
+<p align="left">
   <img src="./docs/Learning curve.png" width="300"/>
 </p>
 
