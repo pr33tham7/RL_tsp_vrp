@@ -49,3 +49,7 @@ Implementation of:
 1. Convert the simulated datasets into `.vrp` format files by running `RL_Dataset.ipynb` and download (automatically)
 2. Download VeRyPy library from the link above and set up following its README
 3. Run `run_heuristic.sh` with modified path and flag of prefered algorithm. Here we used `swp` for Sweep Algorithm and `ps` for Clarke & Wright
+
+# Summary/Presentation slides
+
+See `RL - Final Project.pdf`
