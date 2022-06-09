@@ -13,20 +13,20 @@ Implementation of:
 
 ## To Run
 
-Run the Goolge Colab notebook ```optim_rl_colab.ipynb```
+Run the Google Colab notebook ```optim_rl_colab.ipynb```
 
 ## Results
 
 ### TSP Sample Tours:
 
 <p align="left">
-  <img src="./docs/Contour.png" width="300"/>
+  <img src="./docs/Contour.png" width="500"/>
 </p>
 
 ### TSP Learning Curve:
 
 <p align="left">
-  <img src="./docs/Learning curve.png" width="300"/>
+  <img src="./docs/Learning curve.png" width="500"/>
 </p>
 
 
